@@ -1,2 +1,4 @@
 # MapKitProject
 MapKit的简单使用
+
+添加地点时使用了CoreData，如果只是单纯的练习MapKit没必要这样做，所以也算是对之前的知识做了复习。左划删除则是iOS 11里的新方法，代替以前的editActionsForRowAtIndexPath 方法
